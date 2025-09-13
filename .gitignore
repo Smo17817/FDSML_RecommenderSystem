@@ -1,3 +1,7 @@
+# Dataset
+dataset/Netflix_Dataset_Movie.csv
+dataset/Netflix_Dataset_Rating.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
