@@ -1,48 +1,90 @@
+anaconda-anon-usage @ file:///C:/b/abs_886p3e6f3e/croot/anaconda-anon-usage_1753980477179/work
+anaconda-auth @ file:///C:/b/abs_66s84uss7v/croot/anaconda-cloud-auth-split_1747863792543/work
+anaconda-cli-base @ file:///C:/b/abs_e4_l2p3q_7/croot/anaconda-cli-base_1741369468349/work
+annotated-types @ file:///C:/b/abs_0dmaoyhhj3/croot/annotated-types_1709542968311/work
+archspec @ file:///croot/archspec_1709217642129/work
 asttokens==3.0.0
+backports.tarfile @ file:///C:/b/abs_c0eaq29_rf/croot/backports.tarfile_1728485199412/work
+boltons @ file:///C:/b/abs_e2_iokhxbp/croot/boltons_1751383740243/work
+brotlicffi @ file:///C:/b/abs_f4lixvzmxt/croot/brotlicffi_1736183286104/work
+certifi @ file:///C:/b/abs_2bz30lzohz/croot/certifi_1754570654565/work/certifi
+cffi @ file:///C:/b/abs_29_b57if3f/croot/cffi_1736184144340/work
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+click @ file:///C:/b/abs_bbg7qqz4dk/croot/click_1754477951021/work
 colorama==0.4.6
-comm==0.2.3
-contourpy==1.3.2
-cycler==0.12.1
-debugpy==1.8.16
+comm==0.2.2
+conda @ file:///C:/b/abs_986_226ly4/croot/conda_1754469528806/work/conda-src
+conda-anaconda-telemetry @ file:///croot/conda-anaconda-telemetry_1755883788794/work
+conda-anaconda-tos @ file:///C:/b/abs_c9yejtsx9g/croot/conda-anaconda-tos_1755123332641/work
+conda-content-trust @ file:///C:/b/abs_bdfatn_wzf/croot/conda-content-trust_1714483201909/work
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1745607008911/work/src
+conda-package-handling @ file:///C:/b/abs_7fz3aferfv/croot/conda-package-handling_1731369038903/work
+conda_package_streaming @ file:///C:/b/abs_2d41dz5u60/croot/conda-package-streaming_1751307521903/work
+cryptography @ file:///C:/b/abs_cbo_0az6za/croot/cryptography_1753084589654/work
+debugpy==1.8.14
 decorator==5.2.1
-exceptiongroup==1.3.0
-executing==2.2.1
-fonttools==4.59.2
-ipykernel==6.30.1
-ipython==8.37.0
+distro @ file:///C:/b/abs_71xr36ua5r/croot/distro_1714488282676/work
+exceptiongroup==1.2.2
+executing==2.2.0
+frozendict @ file:///C:/b/abs_2alamqss6p/croot/frozendict_1713194885124/work
+idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
+importlib_metadata @ file:///C:/b/abs_9d0lp1ysmt/croot/importlib_metadata-suite_1732633510972/work
+ipykernel==6.29.5
+ipython==8.36.0
+jaraco.classes @ file:///C:/b/abs_6erueoob1v/croot/jaraco.classes_1755516340851/work
+jaraco.context @ file:///C:/b/abs_6f48xbyztf/croot/jaraco.context_1728505024809/work
+jaraco.functools @ file:///C:/b/abs_a1jv6v_pzp/croot/jaraco.functools_1740408129620/work
 jedi==0.19.2
-joblib==1.5.2
+jsonpatch @ file:///C:/b/abs_4fdm88t7zi/croot/jsonpatch_1714483974578/work
+jsonpointer @ file:///C:/b/abs_73u73l7pl9/croot/jsonpointer_1753788460913/work
 jupyter_client==8.6.3
-jupyter_core==5.8.1
-kiwisolver==1.4.9
-matplotlib==3.10.6
+jupyter_core==5.7.2
+keyring @ file:///C:/b/abs_596d81ux2c/croot/keyring_1745484709696/work
+libmambapy @ file:///C:/b/abs_627vsv8bhu/croot/mamba-split_1734469608328/work/libmambapy
+markdown-it-py @ file:///C:/b/abs_a5bfngz6fu/croot/markdown-it-py_1684279915556/work
 matplotlib-inline==0.1.7
-mlxtend==0.23.4
+mdurl @ file:///C:/Windows/TEMP/abs_3197pzpjbi/croots/recipe/mdurl_1659716032440/work
+menuinst @ file:///C:/b/abs_1bepgi4wpa/croot/menuinst_1753464604355/work
+more-itertools @ file:///C:/b/abs_a2n4mhb8gn/croot/more-itertools_1727185463826/work
 nest-asyncio==1.6.0
-networkx==3.4.2
-numpy==2.2.6
-packaging==25.0
-pandas==2.3.2
-parso==0.8.5
-pillow==11.3.0
-platformdirs==4.4.0
-prompt_toolkit==3.0.52
+packaging @ file:///C:/b/abs_f7t3vr2_lo/croot/packaging_1753775377650/work
+parso==0.8.4
+pkce @ file:///C:/b/abs_d0z4444tb0/croot/pkce_1690384879799/work
+platformdirs==4.3.7
+pluggy @ file:///C:/b/abs_dfec_m79vo/croot/pluggy_1733170145382/work
+prompt_toolkit==3.0.51
 psutil==7.0.0
 pure_eval==0.2.3
-pyfpgrowth==1.0
-Pygments==2.19.2
-pyparsing==3.2.4
-python-dateutil==2.9.0.post0
-pytz==2025.2
-pywin32==311
-pyzmq==27.1.0
-scikit-learn==1.7.2
-scipy==1.15.3
-six==1.17.0
+pycosat @ file:///C:/b/abs_18nblzzn70/croot/pycosat_1736868434419/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic @ file:///C:/b/abs_d1rp6fqxgk/croot/pydantic_1750768285689/work
+pydantic-settings @ file:///C:/b/abs_fe1okp6jbe/croot/pydantic-settings_1730800848545/work
+pydantic_core @ file:///C:/b/abs_d0xs0z3erk/croot/pydantic-core_1750754747982/work
+Pygments==2.19.1
+PyJWT @ file:///C:/b/abs_02n5wes3j9/croot/pyjwt_1736178904450/work
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
+python-dotenv @ file:///C:/b/abs_71cpoh9hpg/croot/python-dotenv_1745613639902/work
+pywin32==310
+pywin32-ctypes @ file:///C:/b/abs_2cfx5l4nvi/croot/pywin32-ctypes_1709340246092/work
+pyzmq==26.4.0
+readchar @ file:///C:/b/abs_13mawdx1fr/croot/readchar_1697462745604/work
+requests @ file:///C:/b/abs_0b3h9d_724/croot/requests_1750426345668/work
+rich @ file:///C:/b/abs_8b92fzmygg/croot/rich_1732638991774/work
+ruamel.yaml @ file:///C:/b/abs_0dn1nhdq75/croot/ruamel.yaml_1745960327187/work
+ruamel.yaml.clib @ file:///C:/b/abs_475flulhy_/croot/ruamel.yaml.clib_1745937166245/work
+semver @ file:///C:/b/abs_6bgol0at6h/croot/semver_1736542515243/work
+shellingham @ file:///C:/b/abs_c3l_fe1lnk/croot/shellingham_1669142179061/work
 stack-data==0.6.3
-threadpoolctl==3.6.0
-tornado==6.5.2
+tomli @ file:///C:/b/abs_88e598m6o8/croot/tomli_1753774604115/work
+tornado==6.4.2
+tqdm @ file:///C:/b/abs_0eh9b6xugj/croot/tqdm_1738945553987/work
 traitlets==5.14.3
-typing_extensions==4.15.0
-tzdata==2025.2
+truststore @ file:///C:/b/abs_edelxif8va/croot/truststore_1753907192099/work
+typer @ file:///C:/b/abs_2bk0z16lq1/croot/typer_1684251920157/work
+typing-inspection @ file:///C:/b/abs_261c5jt6kx/croot/typing-inspection_1746023491500/work
+typing_extensions==4.13.2
+urllib3 @ file:///C:/b/abs_393g1ayee_/croot/urllib3_1750775481226/work
 wcwidth==0.2.13
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
+zipp @ file:///C:/b/abs_2fcpcg89my/croot/zipp_1732630746332/work
+zstandard @ file:///C:/b/abs_31t8xmrv_h/croot/zstandard_1731356578015/work
