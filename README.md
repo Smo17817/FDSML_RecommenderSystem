@@ -17,4 +17,4 @@ Negli ultimi anni, gli approcci ibridi hanno mostrato grande potenziale, combina
 - `requirements.txt`: elenco delle librerie e dipendenze necessarie;
 
 ## 📊 Dataset 
-Il dataset utilizzato, *Netflix Movie Rating*, è reperibile su Kaggle al [seguente indirizzo](https://www.kaggle.com/datasets/rishitjavia/netflix-movie-rating-dataset?select=Netflix_Dataset_Movie.csv). Si suggerisce di salvarlo all'interno della cartella dataset.
+Il dataset utilizzato, *Netflix Movie Rating*, è reperibile su Kaggle al [seguente indirizzo](https://www.kaggle.com/datasets/rishitjavia/netflix-movie-rating-dataset?select=Netflix_Dataset_Movie.csv). Si suggerisce di salvarlo all'interno della cartella `dataset`.
